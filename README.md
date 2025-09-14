@@ -5,7 +5,7 @@ This project is a React Native application built with Expo and TypeScript that r
 
 ## How to Run
 ### Via Expo Snack
-1. Visit the Expo Snack URL: [Insert your Expo Snack URL here]
+1. Visit the Expo Snack URL: https://snack.expo.dev/@dangerwizz/github.com-arnavharshit-monova-react-native-assignment
 2. Click "Run" to view the web version
 3. Alternatively, scan the QR code with the Expo Go app on your mobile device
 
